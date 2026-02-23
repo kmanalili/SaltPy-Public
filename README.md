@@ -42,7 +42,7 @@ import saltpy
 
 Full documentation, examples, and API reference:
 
-👉 https://saltpy.readthedocs.io
+https://saltpy.readthedocs.io
 
 ---
 

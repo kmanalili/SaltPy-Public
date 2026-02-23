@@ -51,6 +51,20 @@ C:/ProgramData/anaconda3/envs/<yourenv>/lib/site-packages/pyCRGI/data/igrf13coef
 
 ## Methods
 
+### `parse_date(date_string)`
+
+Format date to yyyymmdd format. Common use case is parsing Sonarwire CWR file contents for the survey date.
+
+**Parameters:**
+
+- `date_string` (`str`): String containing date in format 'Jul 7, 2024'.
+
+**Returns:**
+
+- `formatted_date` (`str`, or None): Date reformatted to yyyymmdd, None if no valid date is found.
+
+---
+
 ### `build_horizontal_shots(data, sort_by='cAzi')`
 
 Builds a 3D STL-style mesh from sonar scan layers.
