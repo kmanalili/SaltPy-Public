@@ -2,11 +2,14 @@
 
 **SaltPy** is an open-source Python toolkit for processing, analyzing, and visualizing sonar and geospatial data from solution-mined salt caverns.
 
-📖 **Documentation:** https://saltpy.readthedocs.io
+**Documentation:** https://saltpy-public.readthedocs.io
 
-📚 **Citation:** Bauer, M. W.; Lampe, B.; Manalili, K.; Ates, B. (2026):
+**Citation:** Bauer, M. W.; Lampe, B.; Manalili, K.; Ates, B. (2026):
 SaltPy: Open-Source Sonar Survey Processing for Solution-Mined Caverns;
 SMRI Spring 2026 Technical Conference, 26–29 April 2026, Edinburgh, Scotland.
+
+**Abstract:** https://saltpy-public.readthedocs.io/en/latest/api/abstract/
+
 
 ---
 
